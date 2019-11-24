@@ -20,3 +20,6 @@ animatedinput form #2
 Youtube channel Dev Ed: Input Animations with HTML and CSS
 
 Flat UI colors: https://flatuicolors.com/
+Pixabay: https://pixabay.com/
+Unsplash: https://unsplash.com/
+
