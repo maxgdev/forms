@@ -15,3 +15,6 @@ Icon library: https://icon-library.net/
 
 forms index
 - Photo by Mockaroon on Unsplash
+
+animatedinput form #2
+Youtube channel Dev Ed: Input Animations with HTML and CSS
